@@ -39,4 +39,6 @@ This platform provides educational material. We do not promote any illegal activ
 
 Educational resource; no illegal activity endorsed.
 
-Update:  04 August url is now operational and clickable
+
+
+Update:  Wednesday 13 August 2025 Fixed broken url, now active
