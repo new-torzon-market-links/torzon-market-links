@@ -41,4 +41,6 @@ Educational resource; no illegal activity endorsed.
 
 
 
-Update:  Wednesday 13 August 2025 Fixed broken url, now active
+
+
+Update:  19 August The broken link has been fixed, it's now operational.
