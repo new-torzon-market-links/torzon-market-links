@@ -4,11 +4,11 @@
 
 ## Finding the Right TorZon Market Links
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/media/slide.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/media/slide.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/media/default.webp" alt="Finding the Right TorZon Market Links" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/media/default.webp" alt="Finding the Right TorZon Market Links" style="max-width: 100%;"></a>
 
 This platform provides educational material. We do not promote any illegal activities.
 
@@ -45,4 +45,6 @@ Educational resource; no illegal activity endorsed.
 
 
 
-Update:  23.08.2025
+
+
+Update:  12 September 2025
